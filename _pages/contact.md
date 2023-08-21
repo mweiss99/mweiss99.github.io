@@ -5,4 +5,4 @@ permalink: /contact/
 author_profile: true
 ---
 
-I can be reached at [mailto:"markweis@umich.edu"](markweis@umich.edu).
+I can be reached at [markweis@umich.edu](mailto:"markweis@umich.edu").
