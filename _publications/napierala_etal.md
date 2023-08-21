@@ -1,7 +1,7 @@
 ---
 title: "Mothers’ Experience With Health Insurance Coverage When Youngest Child Reaches 18 Years of Age"
 collection: publications
-permalink: /publication/napierala_etal.md
+permalink: /publications/napierala_etal_2023.pdf
 excerpt: 'We find that uninsurance rates increase for mothers at 2 points in their child’s life: (1) when the child is younger than 1 year and (2) when the child turns 18 years old..'
 date: 2023-02-17
 venue: 'JAMA Health Forum'
