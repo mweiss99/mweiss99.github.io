@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &https://twitter.com/MarkA_Weiss
 facebook:
   username               :
   app_id                 :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/mweiss99"
   google_plus      :
   keybase          :
   instagram        :
