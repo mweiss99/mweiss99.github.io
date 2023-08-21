@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the department of political science and the Ford School of Public Policy at the University of Michigan, Ann Arbor. I am also a part-time associate research scientist at NYU-Wagner. My research interests include American politics, state politics and policy, and federalism/intergovernmental relations, with a particular focus on how subnational politics connect to American democracy. I also study public policy - mainly, healthcare policy in the United States.
+I am a Ph.D. student in the department of political science and the Ford School of Public Policy at the University of Michigan, Ann Arbor. I am also a part-time associate research scientist at NYU-Wagner. My research interests include American politics, state politics and policy, and federalism/intergovernmental relations, with a particular focus on how subnational politics connect to American democracy. I also study public policy, mainly, healthcare policy in the United States.
 
 Previously, I worked at the RAND Corporation as a research project specialist and the Georgia Health Policy Center as an intern with the Medicaid policy and business team. 
 
