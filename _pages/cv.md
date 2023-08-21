@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV [here]("mweiss.cv").
+You can view my CV here.
