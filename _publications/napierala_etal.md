@@ -1,7 +1,7 @@
 ---
 title: "Mothers’ Experience With Health Insurance Coverage When Youngest Child Reaches 18 Years of Age"
 collection: publications
-permalink: /publication/nap_etal2023.md
+permalink: /publication/napierala_etal.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023
 venue: 'JAMA Health Forum'
