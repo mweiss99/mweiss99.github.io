@@ -12,6 +12,6 @@ I am a Ph.D. student in the department of political science and the Ford School 
 
 Previously, I worked at the RAND Corporation as a research project specialist and the Georgia Health Policy Center as an intern with the Medicaid policy and business team. 
 
-I am a founding member of the COVID Border Accountability Project (COBAP), an initiative that tracked country-level travel and migration policy responses to the COVID-19 pandemic. My work has appeared in *JAMA Health Forum*, *Scientific Reports*, and *Scientific Data*.
+I am a founding member of the COVID Border Accountability Project (COBAP), an initiative that tracked country-level travel and migration policy responses to the COVID-19 pandemic. My work has appeared in *JAMA Health Forum*, *Scientific Reports*, and *Scientific Data*, and is forthcoming in *The International Encyclopedia of Public Health*.
 
 I received my B.A. in political science and mathematics from Emory University in 2021. 
