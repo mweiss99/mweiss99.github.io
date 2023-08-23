@@ -3,4 +3,4 @@ permalink: /terms/
 title: "Research"
 ---
 
-## Content!
+this is content
