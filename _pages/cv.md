@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV [here](https://drive.google.com/file/d/16EOXqcqj9DOgQ3kKXSIQsnK8L3fxkUOB/view?usp=sharing).
+You can view my CV [here](https://drive.google.com/file/d/1PNbGodt-vXrMgTYIH6B4-HBLojLEpMh4/view?usp=sharing).
