@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV [here](https://drive.google.com/file/d/1jVptK88bG8hOZQbKHgdnWBmS6G3PEYSj/view?usp=sharing).
+You can access my CV [here](https://lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/markweis-12292023-004241-newcv.pdf).
