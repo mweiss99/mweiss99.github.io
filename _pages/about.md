@@ -12,6 +12,7 @@ I am a Ph.D. student in the department of political science and the Ford School 
 
 Previously, I worked as an associate research scientist at NYU-Wagner and as a research project specialist at the RAND Corporation.
 
-I am a founding member of the COVID Border Accountability Project (COBAP), an initiative that tracked country-level travel and migration policy responses to the COVID-19 pandemic. My work has appeared in *JAMA Health Forum*, *Scientific Reports*, and *Scientific Data*, and is forthcoming in *The International Encyclopedia of Public Health*.
+I am a founding member of the COVID Border Accountability Project (COBAP), an initiative that tracked country-level travel and migration policy responses to the COVID-19 pandemic. My work has appeared in *JAMA Health Forum*, *Scientific Reports*, and *Scientific Data*, and is forthcoming in *The International Encyclopedia of Public Health*. My current projects involve studies of perceived electoral integrity among voters, heterogeneity of treatment effects in state-level policy analyses, and state policy responses to the COVID-19 pandemic. 
+
 
 I received my B.A. in political science and mathematics from Emory University in 2021. 
