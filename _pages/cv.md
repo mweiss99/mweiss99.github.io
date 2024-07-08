@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can access my CV [here](https://prod.lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/markweis-04182024-160423-mweisscv.pdf).
+You can access my CV [here](https://lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/markweis-07082024-194356-yr2cvCopy1.pdf).
