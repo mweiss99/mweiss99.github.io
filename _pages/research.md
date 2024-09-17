@@ -7,10 +7,15 @@ author_profile: true
 
 ## Publications
 ### Peer-Reviewed
-[``Did Border Closures Slow SARS-CoV-2?''](https://www.nature.com/articles/s41598-022-05482-7) _Scientific Data_ 12:1709, 2022 (with Mary Shiraef, Paul Friesen, and Lukas Feddern).
+[``Mothers’ Experience With Health Insurance Coverage When Youngest Child Reaches 18 Years of Age.''](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2801477?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamahealthforum.2022.5514) _JAMA Health Forum_, 2023 (with Eric Napierala, Sashoy Patterson, Ana Laboy, and Jessica Smith).
+
+[``Did Border Closures Slow SARS-CoV-2?''](https://www.nature.com/articles/s41598-022-05482-7) _Scientific Reports_ 12:1709, 2022 (with Mary Shiraef, Paul Friesen, and Lukas Feddern).
+
+[``COVID Border Accountability Project, a hand-coded global database of border closures introduced during 2020
+''](https://www.nature.com/articles/s41597-021-01031-5) _Scientific Data_, 2021 (with Mary Shiraef, Cora Hirst, et al).
 
 ### Editor-Reviewed
-[``Managed Care.''](https://www.sciencedirect.com/science/article/pii/B9780323999670000302) in _The International Encyclopedia of Public Health, 3rd Ed._, 2025 (with Sherry Flied and Katharina Janus).
+[``Managed Care.''](https://www.sciencedirect.com/science/article/pii/B9780323999670000302) in _The International Encyclopedia of Public Health, 3rd Ed._, 2025 (with Sherry Glied and Katharina Janus).
 
 [``Impact of the Medicaid Coverage Gap: Comparing States That Have and Have Not Expanded Eligibility.''](https://www.commonwealthfund.org/publications/issue-briefs/2023/sep/impact-medicaid-coverage-gap-comparing-states-have-and-have-not) _Commonwealth Fund_, 2023 (with Sherry Glied).
 
