@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Mark Weiss"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "University of Michigan, Ann Arbor"
+  bio              : #
+  location         : #
+  employer         : #
   uri              : # URL
   email            : "markweis@umich.edu" 
 
