@@ -22,6 +22,7 @@ reports from the 106th-116th Congress, we identify and classify summary findings
 to systematically communicate less accurate (and helpful) classes of information.
 
 [``Consequences of the Medicaid Coverage Gap''](https://www.dropbox.com/scl/fi/hee98sp6pl38qv6xox31u/glied-weiss2024.pdf?rlkey=sahsifw6rnljisc0rv4efdquq&e=1&st=9t3lbad9&dl=0) (with Sherry Glied).
+
 Nearly two million low-income Americans fall into the Medicaid coverage gap: they
 earn too much to qualify for Medicaid in their state but too little to qualify for subsi-
 dized insurance under the ACA, leaving them with no affordable coverage options.
