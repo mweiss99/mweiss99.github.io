@@ -22,7 +22,7 @@ author_profile: true
 []()
 
 ## Working Papers
-["The Politics of Predicting the Future."](https://lowande.polisci.lsa.umich.edu/future.pdf) (with Kenneth Lowande).
+["The Politics of Predicting the Future"](https://lowande.polisci.lsa.umich.edu/future.pdf) (with Kenneth Lowande).
 
 Congress negotiates with vast uncertainty about the effects of proposed policies, and so
 relies on committees to report about the past and project the future. Little is known about
@@ -34,7 +34,7 @@ disagreements inherent in predicting out-of-sample. Using a new dataset of commi
 reports from the 106th-116th Congress, we identify and classify summary findings, evaluations, predictions, and recommendations. We show that bipartisan teams are more retrospective and fact-based, while partisan teams favor predicting the future—without making actionable recommendations. Our results demonstrate politics drives partisan teams
 to systematically communicate less accurate (and helpful) classes of information.
 
-["Consequences of the Medicaid Coverage Gap."](https://www.dropbox.com/scl/fi/hee98sp6pl38qv6xox31u/glied-weiss2024.pdf?rlkey=sahsifw6rnljisc0rv4efdquq&e=1&st=9t3lbad9&dl=0) (with Sherry Glied).
+["Consequences of the Medicaid Coverage Gap"](https://www.dropbox.com/scl/fi/hee98sp6pl38qv6xox31u/glied-weiss2024.pdf?rlkey=sahsifw6rnljisc0rv4efdquq&e=1&st=9t3lbad9&dl=0) (with Sherry Glied).
 
 Nearly two million low-income Americans fall into the Medicaid coverage gap: they
 earn too much to qualify for Medicaid in their state but too little to qualify for subsi-
