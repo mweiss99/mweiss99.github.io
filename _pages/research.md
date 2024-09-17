@@ -43,7 +43,7 @@ populations and outcomes. This heterogeneity suggests that analysts examining pa
 terns across states should test for the robustness of effects across samples.
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find publichsed work on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 
