@@ -10,6 +10,7 @@ author_profile: true
 
 ## Working Papers
 [``The Politics of Predicting the Future.''](https://lowande.polisci.lsa.umich.edu/future.pdf) (with Kenneth Lowande).
+
 Congress negotiates with vast uncertainty about the effects of proposed policies, and so
 relies on committees to report about the past and project the future. Little is known about
 their conclusions, their accuracy, and whether politics seeps into their judgements. We
