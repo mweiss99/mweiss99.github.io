@@ -58,8 +58,7 @@ non-expansion states included in the analysis, although the relationships vary a
 populations and outcomes. This heterogeneity suggests that analysts examining pat-
 terns across states should test for the robustness of effects across samples.
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find published work on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Works in Progress
+Mechanisms of Partisan Purchasing: Evidence from USDA Bids
 
 
