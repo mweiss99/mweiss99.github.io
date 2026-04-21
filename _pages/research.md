@@ -22,19 +22,22 @@ author_profile: true
 []()
 
 ## Working Papers
-["The Politics of Predicting the Future"](https://lowande.polisci.lsa.umich.edu/future.pdf) (with Kenneth Lowande).
+["Partisan Knowledge Claims in Congressional Oversight."](https://lowande.polisci.lsa.umich.edu/future.pdf) (with Kenneth Lowande).
 
-Congress negotiates with vast uncertainty about the effects of proposed policies, and so
-relies on committees to report about the past and project the future. Little is known about
-their conclusions, their accuracy, and whether politics seeps into their judgements. We
-introduce a typology of informational statements contained in committee reports, which
-classifies them based on whether they are prospective or retrospective, and whether they
-contain an inference. We argue that bipartisan teams tend to focus on the past to avoid
-disagreements inherent in predicting out-of-sample. Using a new dataset of committee
-reports from the 106th-116th Congress, we identify and classify summary findings, evaluations, predictions, and recommendations. We show that bipartisan teams are more retrospective and fact-based, while partisan teams favor predicting the future—without making actionable recommendations. Our results demonstrate politics drives partisan teams
-to systematically communicate less accurate (and helpful) classes of information.
+Congress negotiates while uncertain about the effects of proposed policies, and often relies
+on committees to conduct oversight that reports about the past and project the future. Lit-
+tle is known about their conclusions, their accuracy, and how politics seeps into what they
+choose to report. We apply a typology of knowledge claims contained in congressional
+oversight, which classifies them based on whether they are prospective or retrospective,
+and whether they contain an inference. We use a large language model (LLM) to extract
+findings, evaluations, predictions, and recommendations from a new dataset of committee
+reports issued in the 103rd-118th Congresses. We argue that partisan investigation teams
+reveal more raw findings and make fewer recommendations, relative to bipartisan teams,
+which is consistent with their need to demonstrate they have acquired expertise. Our
+study pilots a general approach to studying the acquisition and sharing of information in
+legislative oversight.
 
-["Consequences of the Medicaid Coverage Gap"](https://www.dropbox.com/scl/fi/hee98sp6pl38qv6xox31u/glied-weiss2024.pdf?rlkey=sahsifw6rnljisc0rv4efdquq&e=1&st=9t3lbad9&dl=0) (with Sherry Glied).
+["Consequences of the Medicaid Coverage Gap"]([https://www.dropbox.com/scl/fi/hee98sp6pl38qv6xox31u/glied-weiss2024.pdf?rlkey=sahsifw6rnljisc0rv4efdquq&e=1&st=9t3lbad9&dl=0](https://drive.google.com/file/d/1lD9jFzRwZLlj_MU6dUYEeLD0irxaoIg3/view?usp=drive_link)) (with Sherry Glied).
 
 Nearly two million low-income Americans fall into the Medicaid coverage gap: they
 earn too much to qualify for Medicaid in their state but too little to qualify for subsi-
