@@ -37,7 +37,7 @@ which is consistent with their need to demonstrate they have acquired expertise.
 study pilots a general approach to studying the acquisition and sharing of information in
 legislative oversight.
 
-["Consequences of the Medicaid Coverage Gap"]([https://www.dropbox.com/scl/fi/hee98sp6pl38qv6xox31u/glied-weiss2024.pdf?rlkey=sahsifw6rnljisc0rv4efdquq&e=1&st=9t3lbad9&dl=0](https://drive.google.com/file/d/1lD9jFzRwZLlj_MU6dUYEeLD0irxaoIg3/view?usp=drive_link)) (with Sherry Glied).
+["Consequences of the Medicaid Coverage Gap"](https://drive.google.com/file/d/1lD9jFzRwZLlj_MU6dUYEeLD0irxaoIg3/view?usp=drive_link) (with Sherry Glied).
 
 Nearly two million low-income Americans fall into the Medicaid coverage gap: they
 earn too much to qualify for Medicaid in their state but too little to qualify for subsi-
