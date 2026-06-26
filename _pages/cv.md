@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can access a pdf version of my cv [here](https://onlinelibrary.wiley.com/doi/10.1111/lsq.70079).
+You can access a pdf version of my cv [here](https://prod.lsa.umich.edu/content/dam/michigan-lsa/people-update/cv/markweis-06262026-072755-CV3.pdf).
